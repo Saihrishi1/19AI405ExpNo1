@@ -1,10 +1,9 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
+<h3>Name: Sai Hrishi M</h3>
+<h3>Register Number: 212224240140</h3>
 
-
-<h3>AIM:</h3>
 <br>
+<h3>AIM:</h3>
 <p>To find the PEAS description for the given AI problem and develop an AI agent.</p>
 <br>
 <h3>Theory</h3>
@@ -40,3 +39,11 @@
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
+
+## Output:
+
+<img width="716" height="600" alt="image" src="https://github.com/user-attachments/assets/c94ad504-3fcc-406a-98fd-448c75949dd3" />
+
+## Result:
+
+Thus we have successfully created an AI agent for finding the PEAS description.
